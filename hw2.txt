@@ -1,0 +1,17 @@
+list of linux commands i used
+- pwd
+- mkdir
+- cd
+list of GitHub commands i used
+- git commit
+- git status
+- pico
+- git push
+- git clone
+
+3a. rules for collaboration on homework assignments are that you are allowed to work with any classmate but must include them in your collab file you submit for every homework assignment 
+3b. rules for extrebal sources are you can use them  but dont make them your own. 
+3c.  penalty for late submission is points taking off every day that is late
+3d. penalty for missing class is that you will be marked absent and that attendence grade will drop
+
+
